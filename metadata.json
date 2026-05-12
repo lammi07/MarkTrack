@@ -1,0 +1,6 @@
+{
+  "name": "MarkTrack",
+  "description": "A personal task management tool for teachers to track the 6-stage student work marking lifecycle.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
